@@ -1,1 +1,0 @@
-web: gunicorn project_todo.project_todo.wsgi
