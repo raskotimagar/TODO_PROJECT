@@ -14,3 +14,4 @@ env/
 
 # Environment variables
 .env
+staticfiles/
