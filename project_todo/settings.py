@@ -29,7 +29,7 @@ SECRET_KEY = config('SECRET_KEY')
 
 DEBUG = False # We are goin for the production so i set i false...
 
-ALLOWED_HOSTS = ['todo-project-tw1o.com', 'localhost','127.0.0.1']
+ALLOWED_HOSTS = ['todo-project-tw1o.onrender.com', 'localhost','127.0.0.1']
 
 
 # Application definition
